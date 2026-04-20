@@ -1,0 +1,21 @@
+{
+  "version": "1.0.2",
+  "last_updated": "2026-04-20",
+  "update_channel": "stable",
+  "version_check_url": "https://raw.githubusercontent.com/sdpchfg/LLM-InferenceOps-Hub/main/version.json",
+  "min_trae_version": "1.0.0",
+  "changelog": [
+    "Initial release - Complete LLM deployment expertise",
+    "Support for vLLM, TensorRT-LLM, Ollama, llama.cpp, TGI, FastChat",
+    "Comprehensive troubleshooting guides",
+    "Performance optimization templates",
+    "Auto-update mechanism implemented",
+    "Added vLLM-Ascend support for Huawei Ascend NPU",
+    "Added MindIE deployment guide for Ascend NPU",
+    "Added hardware platform selection guide (NVIDIA GPU vs Ascend NPU)",
+    "Added cross-hardware deployment comparison table",
+    "Added vLLM Chinese documentation URL",
+    "Added Kimi-K2.5 deployment guide for Ascend NPU with vLLM-Ascend"
+  ],
+  "breaking_changes": []
+}
